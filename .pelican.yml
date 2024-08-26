@@ -1,2 +1,3 @@
-publish: true
+enable: false
+status: published
 cover: https://raw.githubusercontent.com/extinctCoder/c4-uml/main/cover.jpg
